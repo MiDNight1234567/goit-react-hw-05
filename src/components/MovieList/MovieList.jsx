@@ -3,7 +3,6 @@ import css from "./MovieList.module.css";
 
 const MovieList = ({ movies = [] }) => {
   const location = useLocation();
-
   return (
     <>
       {movies.length > 0 ? (
