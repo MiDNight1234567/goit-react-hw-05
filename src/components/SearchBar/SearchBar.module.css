@@ -2,9 +2,9 @@
   position: relative;
   display: flex;
   align-items: center;
-  border-top: 4px solid var(--dark-green);
+  /* border-top: 4px solid var(--dark-green); */
   border-bottom: 4px solid var(--dark-green);
-  background-color: var(--main-green);
+  background-color: rgb(251, 255, 0);
   padding: 20px;
   margin-bottom: 24px;
 }

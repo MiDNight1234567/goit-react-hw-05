@@ -5,7 +5,7 @@
   border-top: 4px solid var(--dark-green);
   border-bottom: 4px solid var(--dark-green);
   gap: 30px;
-  background-color: var(--main-green);
+  background-color: rgb(13, 0, 255);
   padding: 20px;
 }
 
@@ -22,7 +22,7 @@
 
 .headerLink:hover {
   color: var(--dark-green);
-  background-color: var(--main-yellow);
+  background-color: rgba(61, 250, 3, 0.595);
   border: 1px solid var(--main-green);
 }
 
